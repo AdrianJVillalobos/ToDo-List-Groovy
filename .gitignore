@@ -1,4 +1,58 @@
-.sass-cache/
-*.css.map
-*.sass.map
-*.scss.map
+# Byte-compiled / optimized / DLL files
+*.class
+*.war
+*.jar
+
+# Log files
+*.log
+
+# Grails specific files
+/.grails/
+/target/
+/build/
+/out/
+/gradle/
+/.grails/
+/web-app/WEB-INF/classes/
+/web-app/WEB-INF/tld/
+/web-app/WEB-INF/lib/
+/web-app/WEB-INF/logs/
+/web-app/WEB-INF/temp/
+/web-app/WEB-INF/spring/
+/web-app/WEB-INF/views/
+/web-app/WEB-INF/xwork/
+/web-app/WEB-INF/.cache/
+/web-app/WEB-INF/.cache/*
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# IDE specific files
+/.idea/
+/*.iml
+/.vscode/
+/.project
+/.classpath
+/.settings/
+*.ipr
+*.iws
+*.dti
+*.launch
+*.orig
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Gradle specific files
+/.gradle/
+/build/
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
