@@ -12,7 +12,6 @@
 /build/
 /out/
 /gradle/
-/.grails/
 /web-app/WEB-INF/classes/
 /web-app/WEB-INF/tld/
 /web-app/WEB-INF/lib/
